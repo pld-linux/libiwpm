@@ -2,12 +2,12 @@
 Summary:	iWarp Port Mapper userspace daemon
 Summary(pl.UTF-8):	Demon przestrzeni użytkownika usługi iWarp Port Mapper
 Name:		libiwpm
-Version:	1.0.3
+Version:	1.0.5
 Release:	1
 License:	BSD or GPL v2
 Group:		Libraries
 Source0:	https://www.openfabrics.org/downloads/libiwpm/%{name}-%{version}.tar.gz
-# Source0-md5:	8c963f77f1a0f80ce66fec3f2c3467e5
+# Source0-md5:	946a177c5cc912981ff08d7bca15977a
 URL:		https://www.openfabrics.org/
 BuildRequires:	libnl-devel >= 3.2
 BuildRequires:	rpmbuild(macros) >= 1.647
